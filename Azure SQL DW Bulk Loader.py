@@ -43,7 +43,7 @@ if partitionOption == 'y':
     while not endYear.isnumeric() or not len(endYear) == 4:
         endYear = input('Please enter the year in YYYY format.\nEnd Year?\n')
 
-    stringBuilder(partitionOption, str(partitionID), serverAndTable, timeStamp, startYear, endYear)
+    stringBuilder(partitionOption, partitionID, serverAndTable, timeStamp, startYear, endYear)
     
 else:
     stringBuilder(partitionOption, partitionID, serverAndTable)
