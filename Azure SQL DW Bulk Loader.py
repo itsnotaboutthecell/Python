@@ -3,6 +3,9 @@
     Website: http://www.itsnotaboutthecell.com
     LinkedIn: https://www.linkedin.com/in/alexmpowers/
     Contact: alexmpowers@itsnotaboutthecell.com
+    
+    Accompanying Article: http://angryanalyticsblog.azurewebsites.net/index.php/2019/03/28/sync-your-on-prem-dw-to-azure-dw-with-3-adf-pipelines/
+    
 '''
 
 def stringBuilder(partitionData, ID, ServerTableName, timeStamp = None, startYear = None, endYear = None):
