@@ -4,7 +4,7 @@
     LinkedIn: https://www.linkedin.com/in/alexmpowers/
     Contact: alexmpowers@itsnotaboutthecell.com
     
-    Accompanying Article: http://angryanalyticsblog.azurewebsites.net/index.php/2019/03/28/sync-your-on-prem-dw-to-azure-dw-with-3-adf-pipelines/
+    Accompanying Article: https://angryanalytics.com/2019/03/28/sync-your-on-prem-dw-to-azure-dw-with-3-adf-pipelines/
     
 '''
 
